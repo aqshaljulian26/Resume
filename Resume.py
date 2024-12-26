@@ -31,17 +31,17 @@ def about_me():
     col1, col2, col3, col4, col5, col6= st.columns(6)
 
     with col1:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/WhatsApp Imag-12-26 at 2.02.30 PM.jpeg", use_container_width=True)
+        st.image("WhatsApp Imag-12-26 at 2.02.30 PM.jpeg", use_container_width=True)
     with col2:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/WhatsApp Image 2024-12-26 at 2.02.31 PM-3.jpeg", use_container_width=True)
+        st.image("WhatsApp Image 2024-12-26 at 2.02.31 PM-3.jpeg", use_container_width=True)
     with col3:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/WhatsApp Image 2024-12-26 at 2.02.31 PM.jpeg", use_container_width=True)
+        st.image("WhatsApp Image 2024-12-26 at 2.02.31 PM.jpeg", use_container_width=True)
     with col4:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/WhatsApp Image 2024-12-26 at 2.02.32 PM.jpeg", use_container_width=True)
+        st.image("WhatsApp Image 2024-12-26 at 2.02.32 PM.jpeg", use_container_width=True)
     with col5:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/WhatsApp Image 2024-12-26 at 2.02.32 PM-2.jpeg", use_container_width=True)
+        st.image("WhatsApp Image 2024-12-26 at 2.02.32 PM-2.jpeg", use_container_width=True)
     with col6:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/BFI .jpeg", use_container_width=True)
+        st.image("BFI .jpeg", use_container_width=True)
 
 def work_experiences():
     st.title("Work Experiences")
@@ -80,7 +80,7 @@ def education():
     st.write("**Grade:** 3.32/4.00")
     col1, col2 = st.columns(2)
     with col1:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/Lulus Sidang Akhir.jpeg", caption="Sekolah Tinggi Teknologi Informasi NIIT", width=200)
+        st.image("Lulus Sidang Akhir.jpeg", caption="Sekolah Tinggi Teknologi Informasi NIIT", width=200)
     
 
     st.write("### Universitas Indonesia")
@@ -89,9 +89,9 @@ def education():
     st.write("**Grade:** 3.08/4.00")
     col1, col2 = st.columns(2)
     with col1:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/Lulus FTUI 1.jpeg", caption="Universitas Indonesia", width=200)
+        st.image("Lulus FTUI 1.jpeg", caption="Universitas Indonesia", width=200)
     with col2:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/Lulus FTUI 2.jpeg", caption="Universitas Indonesia", width=200)
+        st.image("Lulus FTUI 2.jpeg", caption="Universitas Indonesia", width=200)
 
     
     st.write("### SMA Negeri 12 Tangerang Selatan")
@@ -107,7 +107,7 @@ def organization_experiences():
     st.write("**Duration:** 2020 - 2021")
     col1, col2 = st.columns(2)
     with col1:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/Sertifikat HMI.jpeg", caption="Sertifikat HMI UI", width=200)
+        st.image("Sertifikat HMI.jpeg", caption="Sertifikat HMI UI", width=200)
 
     st.write("### OSIS")
     st.write("**Organization:** OSIS SMA Negeri 12 Tangerang Selatan")
@@ -137,7 +137,7 @@ def achievements():
     st.write("- Issued Year: 2024")
     col1, col2 = st.columns(2)
     with col1:
-        st.image("/Users/mac/Documents/Resume Muhammad Aqshal/Sertifikat NIIT.jpeg", caption="CCIT - NIIT Certication of Professional Program", width=200)
+        st.image("Sertifikat NIIT.jpeg", caption="CCIT - NIIT Certication of Professional Program", width=200)
 
     st.write("### CCNA: Switching, Routing and Wireless Essentials")
     st.write("- Description: Successfully completed module taken in Cisco Certification Training in Sekolah Tinggi Teknologi Informasi NIIT.")

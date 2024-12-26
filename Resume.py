@@ -60,7 +60,6 @@ def work_experiences():
     st.write("- Receiving, Recap to Database and Sending IT Units (Laptops, Printers, PCs, etc.) ")
     st.write("- Helping to deliver IT Units to Branch Office.")
     st.write("- Checking daily email.")
-    st.write("- Conducted research to identify new opportunities for system improvements.")
     st.write("- Recap every IT Units purchase to Database (with approval from HR GA complete with purchase receipt, serial number, etc.)")
     st.write("- Prepare Laptop or PC before sending to Branch Office or personal user in Head Office.")
 

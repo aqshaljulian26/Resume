@@ -77,7 +77,6 @@ def education():
     st.write("**Degree:** Bachelor of Science in Computer Science and Engineering")
     st.write("**Graduation Year:** 2024")
     st.write("**Grade:** 3.32/4.00")
-    col1, col2 = st.columns(2)
     
 
     st.write("### Universitas Indonesia")

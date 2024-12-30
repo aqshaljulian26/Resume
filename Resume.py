@@ -78,8 +78,6 @@ def education():
     st.write("**Graduation Year:** 2024")
     st.write("**Grade:** 3.32/4.00")
     col1, col2 = st.columns(2)
-    with col1:
-        st.image("Lulus Sidang Akhir.jpeg", caption="Sekolah Tinggi Teknologi Informasi NIIT", width=200)
     
 
     st.write("### Universitas Indonesia")
